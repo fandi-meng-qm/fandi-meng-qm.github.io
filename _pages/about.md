@@ -5,25 +5,21 @@ excerpt: "About me"
 author_profile: true
 ---
 
-我是 **Fandi Meng (孟繁迪)**，目前是 [Zhongguancun Academy] 的助理教授（Assistant Professor）。我于伦敦玛丽女王大学（QMUL）获得计算机科学博士学位。我的研究方向主要集中在 **游戏人工智能 (Game AI)**，特别是社交博弈（Social Deduction Games）、强化学习以及约束满足问题的应用。
-
-我的研究旨在开发能够理解复杂社交逻辑并进行高效推理的智能体。
+I am currently a Tenure-track Assistant Professor and Ph.D. Supervisor at **Beijing Zhongguancun Academy**, and a Researcher at the **Zhongguancun Institute of Artificial Intelligence**. I received my Ph.D. in Computer Science from **Queen Mary University of London** under the supervision of **Prof. Simon Lucas**. During my doctoral studies, I published several papers on deduction game agents in conferences such as AAAI, IEEE COG, and ACM FDG. I also served as a teaching assistant for various courses and student research projects in the School of Computer Science, and supervised undergraduate and master's dissertations. Moving forward, I remain dedicated to **Game AI research** and maintain a broad interest in related research topics.
 
 ## 📢 News
-* **2026.04** 顺利完成博士论文答辩并入职 [Zhongguancun Academy]。
-* **2026.02** 参加了在新加坡举办的 AAAI 2026 国际会议并担任志愿者。
-* **2025.10** 我们的最新算法 [ISES] 相关的论文被录用。
+* **2026.05** 
+* **2026.04** 
 
 ## 🎓 Education
-* **Queen Mary University of London** 博士 (PhD) in Computer Science, 2022 - 2026
-* **[你的本科学校名称]** 学士 (B.Eng.) in Computer Science, 2018 - 2022
+* **Queen Mary University of London** PhD in Computer Science, 2020 - 2026
+* **Tianjin Unversity** B.Eng.in Industrial Design, 2013 - 2017
 
 ## 🔬 Research Interests
-* **Game AI**: Social deduction games (e.g., Avalon, Resistance).
+* **Game AI**: 
 * **Search & Optimization**: MCTS, Constraint-based reasoning.
-* **Agent Evaluation**: Developing robust benchmarks for AI agents.
+* **Agent Evaluation**:
 
 ## 📝 Selected Publications
-*(完整列表请点击顶部的 [Publications](/publications/))*
 1. **Fandi Meng**, et al. "Title of your core PhD research paper." *Conference Name*, 2026.
-2. **Fandi Meng**, et al. "Information Set Entropy Search in Social Deduction Games." *Journal Name*, 2025.
+2. **Fandi Meng**, et al. .
