@@ -15,7 +15,7 @@ During my doctoral studies, I published several papers on deduction game agents 
 
 
 ## 🔬 Research Interests
-* **Game AI**: Agents for games, general game intelligence, and real-world applications of Game AI.
+* **Game AI**: Agents for games, general game intelligence, and real-world applications of Game AI methods.
 * **Search & Optimization**: Monte Carlo Tree Search, constraint solving, and constraint-based reasoning.
 * **AI-Native Games**: AI for game design, AI and interactive narratives.
 
