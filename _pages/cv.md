@@ -32,9 +32,20 @@ Work experience
   * Deepmind Research Ready Program
   * Duties included: Maintained regular communication with the project professor, held daily meetings with undergraduates to assist them with research and algorithm-related issues, and collaborated on the research of constrained output problems in large language models.
 
+* January 2023 - October 2023: Research Assistant
+  * Queen Mary University of London
+  * Duties included: Assisted in the Digital Showcase Portfolio Project. Developed a university webpage section for student digital portfolios and provided technical support for video résumés and websites.
+
 * 2021 - 2024: Teaching Assistant
   * Queen Mary University of London
-  * Duties included: Assisted in modules like Interaction Design, Multi-platform Game Development, and Bayesian Decision and Risk Analysis. Guided students in lab sessions and marked assignments.
+  * Duties included: Assisted in Digital Showcase Portfolio Project, working with the project lead to create a new section on the university services webpage guiding students in creating digital portfolios. Provided technical support for students in producing personal video résumés and websites.
+
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Skills
 ======
@@ -44,10 +55,4 @@ Skills
 * Language
   * English (Fluent)
   * Chinese Mandarin (Native)
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
