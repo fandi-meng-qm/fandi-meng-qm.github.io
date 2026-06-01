@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, Queen Mary University of London, 2020 - 2026
+
+* M.A. in Television, University of the Arts London, 2018 - 2019
+
+* B.Eng. in Industrial Design, Tianjin University, 2013 - 2017
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2026 - Present: Tenure-track Assistant Professor
+  * Zhongguancun Academy, AI & Game Research Group
+  * Duties included: Conducted AI and game research, mentored students, and facilitated academic communication both within and outside the group.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024 - 2025: Teaching Fellow
+  * Queen Mary University of London
+  * Duties included: Assisted in AI module, supported the development of course materials, and guided students in lab sessions. Supervised 20 computer science students in their graduation projects.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* June 2024 - August 2024: PhD Buddy
+  * Deepmind Research Ready Program
+  * Duties included: Maintained regular communication with the project professor, held daily meetings with undergraduates to assist them with research and algorithm-related issues, and collaborated on the research of constrained output problems in large language models.
+
+* 2021 - 2024: Teaching Assistant
+  * Queen Mary University of London
+  * Duties included: Assisted in modules like Interaction Design, Multi-platform Game Development, and Bayesian Decision and Risk Analysis. Guided students in lab sessions and marked assignments.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding
+  * Python (Primary)
+  * C# (For game development)
+* Language
+  * English (Fluent)
+  * Chinese Mandarin (Native)
 
 Publications
 ======
@@ -47,18 +51,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
